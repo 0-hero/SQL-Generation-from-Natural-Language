@@ -45,3 +45,4 @@ maximum marks of vishal gupta in all subject
 students with less than 50 marks in class 12
 ```
 ### Result
+![](/Output.png)
